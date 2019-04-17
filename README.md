@@ -1,3 +1,3 @@
 # Slider
-Слайдер, реализованный на JQuery
+Слайдер
 HTML, CSS, JavaScript + JQuery
