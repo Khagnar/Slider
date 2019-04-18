@@ -1,3 +1,4 @@
 # Slider
-Слайдер
+Простенький слайдер
+
 HTML, CSS, JavaScript + JQuery
